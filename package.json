@@ -1,0 +1,11 @@
+{
+  "name": "adventjs2022",
+  "version": "1.0.0",
+  "description": "my solutions to the challenges proposed by @midudev on adventjs.dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Joel Avilés",
+  "license": "MIT"
+}
