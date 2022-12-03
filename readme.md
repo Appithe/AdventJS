@@ -11,6 +11,7 @@ Mis soluciones para los retos de [Advent JS 2022](https://adventjs.dev/) de [@mi
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 01          | ¡Automatizando envolver regalos de navidad! | [mostrar](https://adventjs.dev/es/challenges/2022/1) | [solución](Solutions/c_01.js) | 🟢           |
 | 02          | Nadie quiere hacer horas extra | [mostrar](https://adventjs.dev/es/challenges/2022/2) | [solución](Solutions/c_02.js) | 🟢           |
+| 02          | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [mostrar](https://adventjs.dev/es/challenges/2022/3) | [solución](Solutions/c_03.js) | 🟢           |
 
 [^1]: **Dificultad**: 🟢 Fácil 🟠 Normal 🔴 Difícil 🟣 Muy Difícil
 
