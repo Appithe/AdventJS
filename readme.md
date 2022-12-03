@@ -10,10 +10,11 @@ Mis soluciones para los retos de [Advent JS 2022](https://adventjs.dev/) de [@mi
 | #           | Reto        | Description | Solución    | Dificultad[^1]  |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 01          | ¡Automatizando envolver regalos de navidad! | [mostrar](https://adventjs.dev/es/challenges/2022/1) | [solución](Solutions/c_01.js) | 🟢           |
+| 02          | Nadie quiere hacer horas extra | [mostrar](https://adventjs.dev/es/challenges/2022/2) | [solución](Solutions/c_02.js) | 🟢           |
 
-[^1]: **Dificultad**: 🟢 Easy 🟠 Normal 🔴 Hard 🟣 Very Hard
+[^1]: **Dificultad**: 🟢 Fácil 🟠 Normal 🔴 Difícil 🟣 Muy Difícil
 
-## Ejecutar soluciones
+¡Automatizando envolver regalos de navidad!## Ejecutar soluciones
 
 ```
 node Solutions/c_#.js
