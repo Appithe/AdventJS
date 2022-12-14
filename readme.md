@@ -34,3 +34,4 @@ node Solutions/c_#.js
 ## Otras Soluciones
 
 * [borjapazr](https://github.com/borjapazr/awesome-adventjs)
+* [Achalogy](https://github.com/Achalogy/advent-js-2022.git)
