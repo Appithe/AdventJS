@@ -14,7 +14,7 @@ Mis soluciones para los retos de [Advent JS 2022](https://adventjs.dev/) de [@mi
 | 03          | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [mostrar](https://adventjs.dev/es/challenges/2022/3) | [solución](Solutions/c_03.js) | 🟢           |
 | 04          | Una caja dentro de otra caja y otra... | [mostrar](https://adventjs.dev/es/challenges/2022/4) | no solucionado | 🟠           |
 | 05          | Optimizando viajes de Santa | [mostrar](https://adventjs.dev/es/challenges/2022/5) | no solucionado | 🔴           |
-| 06          | Creando adornos navideños | [mostrar](https://adventjs.dev/es/challenges/2022/6) | no solucionado | 🟠           |
+| 06          | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [mostrar](https://adventjs.dev/es/challenges/2022/6) | [solución](Solutions/c_06.js) | 🟠           |
 | 07          | Haciendo inventario de regalos | [mostrar](https://adventjs.dev/es/challenges/2022/7) | no solucionado | 🟢           |
 | 08          | ¡Necesitamos un mecánico! | [mostrar](https://adventjs.dev/es/challenges/2022/8) | no solucionado | 🟠           |
 | 09          | Las locas luces de Navidad | [mostrar](https://adventjs.dev/es/challenges/2022/9) | no solucionado | 🟢           |
